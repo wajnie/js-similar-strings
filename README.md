@@ -23,10 +23,11 @@ let list = [
 ```js
 let index = [];
 ```
-### Then make a word which will be searched
+### Then make a string which will be searched in the list array
 ```js
 let word = "Fi"
 // You can replace it with something else
+// It can be an argument, for example in a command =search ${argument}
 ```
 ### After that, the forEach loop which checks all words in list array
 ```js
