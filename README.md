@@ -47,3 +47,5 @@ let target = match.bestMatch.target;
 ```js
 console.log(target)
 ```
+### 3. Final Step
+Just node the file you put that code inside, and enjoy your output which should be "Fish" if you copied everything of my tutorial. Enjoy!
