@@ -19,10 +19,9 @@ let list = [
 "Sheep"
 ]
 ```
-### Now we have to make 2 empty arrays
+### Now we have to make an empty array
 ```js
 let index = [];
-let index1 = [];
 ```
 ### Then make a word which will be searched
 ```js
